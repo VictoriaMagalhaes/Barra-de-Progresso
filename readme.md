@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O objetivo era recriar um Barra de Progresso, que ao clicar em "Próximo" uma linha será preenchida ao decorrer do progresso.
 E inclui ao projeto um Modo Dark e Light, onde o usuário pode optaar em ter a tela no modo escuro ou claro.
 
-- [Visite o projeto online](https://victoriamagalhaes.github.io/Explore_Aracaju/)
+- [Visite o projeto online](https://victoriamagalhaes.github.io/Barra-de-Progresso/)
 
 ## :memo: Licença
 
